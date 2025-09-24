@@ -12,7 +12,7 @@
 - 🔭 Actualmente desarrollando aplicaciones web con **Java & Spring Boot**  
 - 🌱 Aprendiendo sobre **Arquitectura Hexagonal, Microservicios e Inteligencia Artificial**  
 - 💬 Pregúntame sobre **Java, Spring Boot, JPA/Hibernate y Bases de Datos Relacionales**  
-- 📫 Cómo contactarme: **[LinkedIn](https://www.linkedin.com/in/jesusdavidtorresospino/)**  
+- 📫 Cómo contactarme: **[LinkedIn](https://www.linkedin.com/in/jes%C3%BAsdavidtorreso-javadeveloper/)**  
 - 📄 Conoce más sobre mi experiencia: **[Mi CV](https://drive.google.com/tu-cv.pdf)**  
 - 🚀 Proyectos destacados:
   - [Sistema de gestión de gimnasio](https://github.com/jesusdavidtorres/tu-repo-gimnasio)

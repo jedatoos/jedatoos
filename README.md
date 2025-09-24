@@ -16,7 +16,7 @@
 - 📫 Cómo contactarme: **[LinkedIn](https://www.linkedin.com/in/jes%C3%BAsdavidtorreso-javadeveloper/)**  
 - 📄 Conoce más sobre mi experiencia: **[Mi CV](https://drive.google.com/file/d/1mEg_D4PoNS5SRs87vnBurEOk0d3bsUwX/view?usp=sharing)**  
 - 🚀 Proyectos destacados:
-  - [Sistema de gestión de gimnasio](https://github.com/jesusdavidtorres/tu-repo-gimnasio)
+  - [Sistema de gestión de gimnasio](https://github.com/jedatoos/gym-management-system)
   - [E-commerce con arquitectura hexagonal](https://github.com/jesusdavidtorres/tu-repo-ecommerce)
 
 <br/>

@@ -1,4 +1,5 @@
-<h1 align="center">Hola 👋, soy <a href="https://www.linkedin.com/in/jes%C3%BAsdavidtorreso-javadeveloper/" target="blank">Jesús David Torres</a></h1>
+<h1 align="center">Hola 👋, soy <a href="https://www.linkedin.com/in/jes%C3%BAsdavidtorreso-javadeveloper/" target="blank">Jesús David Torres Ospino
+</a></h1>
 <h3 align="center">Desarrollador Backend apasionado por Java y Spring Boot desde Colombia 🇨🇴</h3>
 
 <p align="left">
@@ -13,7 +14,7 @@
 - 🌱 Aprendiendo sobre **Arquitectura Hexagonal, Microservicios e Inteligencia Artificial**  
 - 💬 Pregúntame sobre **Java, Spring Boot, JPA/Hibernate y Bases de Datos Relacionales**  
 - 📫 Cómo contactarme: **[LinkedIn](https://www.linkedin.com/in/jes%C3%BAsdavidtorreso-javadeveloper/)**  
-- 📄 Conoce más sobre mi experiencia: **[Mi CV](https://drive.google.com/tu-cv.pdf)**  
+- 📄 Conoce más sobre mi experiencia: **[Mi CV](https://drive.google.com/file/d/1mEg_D4PoNS5SRs87vnBurEOk0d3bsUwX/view?usp=sharing)**  
 - 🚀 Proyectos destacados:
   - [Sistema de gestión de gimnasio](https://github.com/jesusdavidtorres/tu-repo-gimnasio)
   - [E-commerce con arquitectura hexagonal](https://github.com/jesusdavidtorres/tu-repo-ecommerce)

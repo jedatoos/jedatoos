@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy <a href="https://www.linkedin.com/in/jesusdavidtorresospino/" target="blank">Jesús David Torres</a></h1>
+<h1 align="center">Hola 👋, soy <a href="https://www.linkedin.com/in/jes%C3%BAsdavidtorreso-javadeveloper/" target="blank">Jesús David Torres</a></h1>
 <h3 align="center">Desarrollador Backend apasionado por Java y Spring Boot desde Colombia 🇨🇴</h3>
 
 <p align="left">

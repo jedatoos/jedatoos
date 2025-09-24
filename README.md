@@ -29,8 +29,8 @@
   <a href="https://github.com/jesusdavidtorres">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
   </a>
-  <a href="https://twitter.com/tuusuario">
-    <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png">
+  <a href="(https://wa.me/573042351240)">
+    <img src="(https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)">
   </a>
 </p>
 

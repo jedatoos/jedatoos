@@ -17,7 +17,7 @@
 - 📄 Conoce más sobre mi experiencia: **[Mi CV](https://drive.google.com/file/d/1mEg_D4PoNS5SRs87vnBurEOk0d3bsUwX/view?usp=sharing)**  
 - 🚀 Proyectos destacados:
   - [Sistema de gestión de gimnasio](https://github.com/jedatoos/gym-management-system)
-  - [Sistema de gestion de sitas medicas](https://github.com/sergprl/NC_Coordinaci-n_Citas_Teleasistencia_BackEnd))
+  - [Sistema de gestión de sitas medicas](https://github.com/sergprl/NC_Coordinaci-n_Citas_Teleasistencia_BackEnd))
 
 <br/>
 
